@@ -2,3 +2,12 @@
 2_feature_selection/
 3_concat_dfs/
 data/
+
+.venv/
+clean_functions/
+data_csv/
+process/
+small_train_images/
+small_valid_images/
+test_images/
+train_images/
