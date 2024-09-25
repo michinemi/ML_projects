@@ -11,3 +11,8 @@ small_train_images/
 small_valid_images/
 test_images/
 train_images/
+
+data/
+logs/
+other/
+results/
